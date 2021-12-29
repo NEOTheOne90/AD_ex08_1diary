@@ -1,4 +1,4 @@
-# Project08_1diary
+# AD_ex08_1diary
 
 # 일기저장 어플 예제
 
